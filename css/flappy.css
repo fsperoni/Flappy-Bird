@@ -79,7 +79,7 @@ body {
 }
 
 .progress {
-  top: 10px;
+  top: 60px;
   right: 10px;
 }
 
@@ -90,8 +90,8 @@ body {
 }
 
 .high-score {
-  top: 10px;
-  left: 10px;
+  top: 5px;
+  right: 10px;
 }
 
 .restart {
